@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Banking Application running prod Environment"
+  message: "Banking Application running production Environment"
   contactDetails:
     name: "Surya Singh - Product Owner"
     email: "surya.singh@bank.com"
