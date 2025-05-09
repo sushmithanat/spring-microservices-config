@@ -5,7 +5,7 @@ accounts:
   message: "Banking Application inside PROD Environment"
   contactDetails:
     name: "Aishwarya Rajesh - Product Owner"
-    email: "5b5f15229055a3210c0c88df69890b9ad65d3b87085a25d3631804bfdae3c5d42cff285fb8ffad9ea49c7116073fa72e"
+    email: "{cipher}5b5f15229055a3210c0c88df69890b9ad65d3b87085a25d3631804bfdae3c5d42cff285fb8ffad9ea49c7116073fa72e"
   onCallSupport:
     - (080)121-7890
     - (080)122-6703
